@@ -1,7 +1,7 @@
 ﻿EntityFramework.SchemaCompare v0.0.1-alpha
 ==========================================
 
-An alternative to [EntityFramework.Migrations](https://nuget.org/packages/EntityFramework.Migrations). It allows to compare database schema with EF Code-First entities model during database initialization or manually on request.
+An alternative to [EntityFramework.Migrations](https://nuget.org/packages/EntityFramework.Migrations). It allows to compare database schema with EF Code-First entities model during database initialization or manually on request. Then having all the differences / incompatibility issues between the model and db schema on hands you can update either database schema or code-first classes to get them back in sync.
 
 The latest version is at [http://github.com/kriasoft/data](http://github.com/kriasoft/data)
 
